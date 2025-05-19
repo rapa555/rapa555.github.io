@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Not exactly a convenient bogging environment... "
-date: 2025-05-18
+title: "Did a funny thing"
+date: 2025-05-18-Did-a-funny-thing
 categories: jekyll update
 ---
-This jekyll thing, ingenious though it obviously is, makes me think of what the automobile has become, very complex and impossible to maintain without special skills and equipment.
-Basically ready for competent AI to take the reigns...
-Cut out all the middle men.
+Tried posting from mobile, had to log into github and use online editor.
+The behaviour was unfamiliar and I managed to replace the content of a previous post.
+The editor was jumpy on the mobile device.
