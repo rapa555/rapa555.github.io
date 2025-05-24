@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Page_01"
-permalink: /_pages/page_01
+title: Page_01
+permalink:
 ---
 
 This is now page one of _pages.
