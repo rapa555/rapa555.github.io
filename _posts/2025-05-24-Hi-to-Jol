@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hi Jol"
-date: 2025-05-24-Quick post
+title: Hi Jol
+date: 2025-05-24
 categories: jekyll update
 ---
 Yes, the subtle complexity of Markdown, YAML and how LIQUID uses templates to coordinate site construction from these, is not as straightforward as one might think.
