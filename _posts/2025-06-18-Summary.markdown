@@ -1,0 +1,9 @@
+---
+layout: post
+title: Summary
+date: 2025-06-18-Summary
+categories: jekyll update
+---
+After quite a few attempts, and a bit of researching and playing, my assessment of this particular project is that it reminds me of the evolution of the automobile.
+In its early forms, the automobile was fairly accessible to its users, one could fairly readily obtain the tools and learn how to to upkeep the machine.
+The modern automobile, however, is a technological marvel that requires experts with specialized tools, changing the smallest feature may well affect other features adversly, a great deal of knowledge and care is necessary. It is not a particularly user friendy beast, unless the underlying form is maintained by these skilled technicians and users do no more than drive from A to B.
