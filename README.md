@@ -1,2 +1,2 @@
-Took the opportunity to host a website for free on github.
-Want to understand more about markdown.
+Github is great, but this website Blog thing is taking a long time to update, if I try adding a post. I'll try editing this and reloading
+as copilot suggested...
